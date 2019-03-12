@@ -1,0 +1,7 @@
+C:\Users\бейсеевс.CORP\source\repos\Registration\Registration\obj\Debug\RegistrationProject.csprojAssemblyReference.cache
+C:\Users\бейсеевс.CORP\source\repos\Registration\Registration\obj\Debug\RegistrationProject.csproj.CoreCompileInputs.cache
+C:\Users\бейсеевс.CORP\source\repos\Registration\Registration\obj\Debug\Registration.exe
+C:\Users\бейсеевс.CORP\source\repos\Registration\Registration\obj\Debug\Registration.pdb
+C:\Users\бейсеевс.CORP\source\repos\Registration\Registration\bin\Debug\Registration.exe.config
+C:\Users\бейсеевс.CORP\source\repos\Registration\Registration\bin\Debug\Registration.exe
+C:\Users\бейсеевс.CORP\source\repos\Registration\Registration\bin\Debug\Registration.pdb
